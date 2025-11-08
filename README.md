@@ -1,2 +1,2 @@
 # -Cybersecurity-Incidents 
-In the evolving landscape of cybersecurity, rapid and accurate incident triage is critical for Security Operation Centers (SOCs). At Microsoft, we leverage the GUIDE dataset to build a machine learning model that classifies incidents into true positive (TP), benign positive (BP), or false positive (FP). This model empowers SOC analysts with context-rich, guided response recommendations, enhancing decision-making and strengthening enterprise security. By training on train.csv and evaluating on test.csv using macro-F1, precision, and recall, we ensure the model is both accurate and generalizable for real-world deployme
+
